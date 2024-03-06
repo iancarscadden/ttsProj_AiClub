@@ -2,3 +2,11 @@ STEPS FOR EXPANDING:
 
 1) Figure out how to run the code from colab in a local ide.
 2) Version Control
+2) Audio to text conversion
+3) text to gpt 
+4) gpt to chris voice
+
+Optional:
+1) Run on server somehow so it is accessible from the cloud
+2) Make some form of interface
+3) 
