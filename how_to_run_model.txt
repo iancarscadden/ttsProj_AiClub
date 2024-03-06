@@ -1,1 +1,8 @@
+1) open this link: https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/Latest_Tacotron2_and_HiFi_GAN.ipynb#scrollTo=GHIBEHtW-eHZ
 
+2) In tacotronID, paste: 1-2toqB6XFlBc47CEcaESQePbCthIbDIt
+
+3) Set supperres strength to a value 0 - 10, normally we will use 2.
+
+4) Hit the play button to run the cell. Do not touch anything until at the bottom you see a box where you can type text. After you type in the box
+press enter to generate a audio file of your text in Chris's voice.
