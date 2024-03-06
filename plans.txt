@@ -1,2 +1,3 @@
 STEPS FOR EXPANDING:
 
+1) Figure out how to run the code from colab in a local ide.
