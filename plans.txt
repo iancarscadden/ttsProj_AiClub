@@ -1,6 +1,10 @@
 STEPS FOR EXPANDING:
 
 1) Figure out how to run the code from colab in a local ide.
+  a) https://github.com/NVIDIA/tacotron2 
+  * we can use this github repo and try to use the steps provided to put the model into our local ide
+  * from there we can use chris's audio files to possibly retrain the model 
+  * might need to find a way to implement the synthesizer
 2) Version Control
 3) Audio to text conversion
 4) text to gpt 
